@@ -8,7 +8,6 @@ Objetivos da Aula:
 5. Realizar um Pull Request e Merge;
 6. Criar nosso primeiro Fork.
 
-
 Quick setup — if you’ve done this kind of thing before
 or	
 https://github.com/francildoalves/meu-repositorio-teste.git
