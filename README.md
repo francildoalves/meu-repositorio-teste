@@ -1,4 +1,4 @@
-Criando Repositórios, Branches e Pull Requests - Prática 1
+# Criando Repositórios, Branches e Pull Requests - Prática 1
 
 Objetivos da Aula:
 1. Criar um repositório local e adiciona-lo ao nosso GitHub remoto;
@@ -8,14 +8,12 @@ Objetivos da Aula:
 5. Realizar um Pull Request e Merge;
 6. Criar nosso primeiro Fork.
 
+# Ações no GitBash
+
 Quick setup — if you’ve done this kind of thing before
-or
-https://github.com/francildoalves/meu-repositorio-teste.git
-Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore
-
 or	
-
-.
+https://github.com/francildoalves/meu-repositorio-teste.git
+Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
 
 …or create a new repository on the command line
 echo "# meu-repositorio-teste" >> README.md
@@ -26,7 +24,7 @@ git branch -M main
 git remote add origin https://github.com/francildoalves/meu-repositorio-teste.git
 git push -u origin main
 
-…or push an existing repository from the command line 
-git remote add origin https://github.com/francildoalves/meu-repositorio-teste.git 
-git branch -M main 
+…or push an existing repository from the command line
+git remote add origin https://github.com/francildoalves/meu-repositorio-teste.git
+git branch -M main
 git push -u origin main
